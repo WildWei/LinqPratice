@@ -10,7 +10,7 @@ namespace TestModel
         public static Person Empty => _empty;
 
         /// <summary>
-        /// 男:M , 女:F, xx
+        /// 男:M , 女:F
         /// </summary>
         public char gender { get; set; }
 
